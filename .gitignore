@@ -11,3 +11,7 @@
 # Unit test reports
 
 TEST*.xml
+
+#
+
+.DS_Store
